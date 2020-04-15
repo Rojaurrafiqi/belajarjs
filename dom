@@ -1,0 +1,4 @@
+dom adalah document object model.
+
+addEventListener adalah method yang sangat penting dalam JavaScript. Merupakan method yang berfungsi untuk membuat event (click, change, mouseout, dll) 
+untuk keperluan manipulasi DOM. sumber : https://www.dumetschool.com/blog/Mengenal-Method-addEventListener-Dalam-JavaScript
