@@ -1,0 +1,14 @@
+yang membedakan tiap seri js ataupun bahasa program lainnya adalah pada class, module, object dan array.
+
+di dalam javascript mengenal 6 tipe data : (number, string, booelan, object, function, undefine)
+
+operator juga hal yang wajib diketahui didalam pemrograman. 
+Operator dalam pemrograman terbagi dalam 6 jenis:
+
+    Operator aritmatika;
+    Operator Penugasan (Assignment);
+    Opeartor relasi atau perbandingan;
+    Operator Logika;
+    Operator Bitwise;
+    Operator Ternary;
+sumber referensi (https://www.petanikode.com/javascript-operator/)
